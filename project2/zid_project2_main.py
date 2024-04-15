@@ -346,6 +346,7 @@ print(t_stat_res)
 ls_bar = t_stat_res['ls_bar']
 ls_t = t_stat_res['ls_t']
 n_obs = t_stat_res['n_obs']
+
 # ls_bar = '0.0073'
 # ls_t = '1.3847'
 # n_obs = '235'
